@@ -4,6 +4,14 @@
 
 ---
 
+## 📄 Sumário do Curso
+
+O conteúdo completo das seções do curso, organizado de forma hierárquica, pode ser consultado no link abaixo:
+
+👉 [Acesse aqui o Sumário completo do curso](https://github.com/marialuciasf97/curso-java-completo/blob/main/SUMARIO.md)
+
+---
+
 ## 📚 Sobre o Repositório
 
 Este repositório documenta minha jornada de aprendizado no **Curso Java Completo** da Udemy, ministrado pelo instrutor **Nélio Alves**.  
