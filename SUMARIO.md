@@ -25,7 +25,9 @@
   - 7.3 Sintática  
   - 7.4 Exemplos de Linguagens de Programação  
 - 8. IDE – Ambiente Integrado de Desenvolvimento  
-  - 8.1 Funcionalidades de uma IDE  
+  - 8.1 O que é uma IDE
+  - 8.2 Exemplos de IDEs e suas Linguagens Especializadas
+  - 8.3 Funcionalidades de uma IDE
 - 9. Compilação, Interpretação, Código Fonte, Código Objeto, Máquina Virtual  
 
 ## Seção 3: Introdução à Linguagem Java
