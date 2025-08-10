@@ -28,7 +28,19 @@
   - 8.1 O que é uma IDE
   - 8.2 Exemplos de IDEs e suas Linguagens Especializadas
   - 8.3 Funcionalidades de uma IDE
-- 9. Compilação, Interpretação, Código Fonte, Código Objeto, Máquina Virtual  
+- 9. Compilação, Interpretação, Código Fonte, Código Objeto, Máquina Virtual
+  - 9.1 Compilador
+  - 9.2 Código Fonte
+  - 9.3 Código Objeto
+  - 9.4 Bytecode
+  - 9.5 Tipos de Linguagens
+    - 9.5.1 Compiladas
+    - 9.5.2 Interpretadas
+    - 9.5.3 Híbridas
+  - 9.6 Vantagens e Desvantagens
+    - 9.6.1 linguagens Compiladas
+    - 9.6.2 linguagens Interpretadas
+    - 9.6.3 Linguagens Híbridas
 
 ## Seção 3: Introdução à Linguagem Java
 
