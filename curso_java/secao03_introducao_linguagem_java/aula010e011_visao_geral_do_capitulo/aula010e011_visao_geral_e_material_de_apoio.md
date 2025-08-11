@@ -14,4 +14,4 @@ Tópicos centrais:
 
 ---
 
-**Material de Apoio para esse Capítulo:** [Acesse aqui](link)  
+**Material de Apoio para esse Capítulo:** [Acesse aqui](https://github.com/marialuciasf97/curso-java-completo/blob/main/material_de_apoio/03-introducao-linguagem-java.pdf)  
