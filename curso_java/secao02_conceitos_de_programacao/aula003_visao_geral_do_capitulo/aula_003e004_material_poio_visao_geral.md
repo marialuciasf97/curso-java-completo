@@ -20,4 +20,4 @@ Esses tópicos fornecem a base para compreender **como programas são escritos, 
 
 ---
 
-📎 **Material de Apoio:** [Acesse aqui](https://github.com/marialuciasf97/curso-java-completo/blob/main/material_de_apoio/02-conceitos-de-programacao.pdf)
+📎 **Material de Apoio:** [Acesse aqui](../../../material_de_apoio/02-conceitos-de-programacao.pdf)
