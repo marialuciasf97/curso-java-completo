@@ -2,7 +2,7 @@
 
 ## 📎 1.1 Material de Apoio da Sessão
 
-📄 [Acessar material de apoio](https://github.com/marialuciasf97/curso-java-completo/blob/main/material_de_apoio/01-introducao.pdf)  
+📄 [Acessar material de apoio](../../../material_de_apoio/01-introducao.pdf)  
 
 ---
 
