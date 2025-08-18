@@ -133,7 +133,7 @@ Marcadores:
 - `%s` → texto
 
 Regra geral:
-`"texto %.marcador> texto %.<marcador> texto %.<marcador>%n", var1, var2, var3`
+`"texto <%.marcador> texto %.<marcador> texto %.<marcador>%n", var1, var2, var3`
 
 ~~~java
 java.util.Locale.setDefault(java.util.Locale.US);
@@ -178,7 +178,7 @@ Maria tem 31 anos e ganha R$ 4000.00 reais
 - `Locale` controla o separador decimal (vírgula ou ponto).  
 - Concatenar texto e variáveis: `+` (simples) ou `printf` (formatado).  
 
-📖 Referência: [Documentação Oracle – NumberFormat](https://docs.oracle.com/javase/tutorial/java/data/numberformat.html)
+Para mais informações sobre formatação de números, consulte: [Documentação Oracle – NumberFormat](https://docs.oracle.com/javase/tutorial/java/data/numberformat.html)
 
 Algoritmo Baseado na Aula: [Ver Algoritmo](./src/Main.java)
 
