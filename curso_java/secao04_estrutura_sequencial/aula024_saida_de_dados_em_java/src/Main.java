@@ -1,7 +1,8 @@
 import java.util.Locale;
 
 public class Main {
-    public static void main(String[] args) {
+    
+	public static void main(String[] args) {
         
         // Imprimir na tela:
 
